@@ -12,7 +12,7 @@
   </tr>
   <tr>
     <td><center>Article 1</center></td>
-     <td><center>link1</center></td>
+     <td><center>https://www.geeksforgeeks.org/customthreadpoolexecutor-in-java-executor-framework/</center></td>
   </tr>
   <tr>
     <td><center>Article 2</center></td>
