@@ -27,17 +27,6 @@
      <td><center><a href="https://www.geeksforgeeks.org/how-to-use-svg-vector-drawables-in-android/">how-to-use-svg-vector-drawables-in-android</a></center></td>
   </td>
   
-    <tr>
-    <td><center>Article 4</center></td>
-     <td><center><a href="https://www.geeksforgeeks.org/how-to-use-svg-vector-drawables-in-android/">how-to-use-svg-vector-drawables-in-android</a></center></td>
-  </td>
-  
-  
-    <tr>
-    <td><center>Article 4</center></td>
-     <td><center><a href="https://www.geeksforgeeks.org/how-to-use-svg-vector-drawables-in-android/">how-to-use-svg-vector-drawables-in-android</a></center></td>
-  </td>
-  </tr>
 </table>
 </body>
 </html>
