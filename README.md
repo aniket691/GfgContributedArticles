@@ -26,24 +26,6 @@
      <td><center><a href="https://www.geeksforgeeks.org/using-guavas-collectors-for-collecting-streams-to-immutable-collections-in-java/">using-guavas-collectors-for-collecting-streams-to-immutable-collections-in-java</a></center></td>
   </tr>
   
-  
-  
-  
-    <tr>
-    <td><center>Article 3</center></td>
-     <td><center><a href="https://www.geeksforgeeks.org/java-program-to-implement-inversion-method-for-random-number-generation/">java-program-to-implement-inversion-method-for-random-number-generation</a></center></td>
-  </tr>
-  
-  
-    
-  
-  
-  
-    <tr>
-    <td><center>Article 3</center></td>
-     <td><center><a href="https://www.geeksforgeeks.org/java-program-to-implement-inversion-method-for-random-number-generation/">java-program-to-implement-inversion-method-for-random-number-generation</a></center></td>
-  </tr>
-   
-</table>
+  </table>
 </body>
 </html>
