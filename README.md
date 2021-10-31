@@ -20,51 +20,6 @@
   </tr>
   
   
-  
-  <tr>
-    <td><center>Article 2</center></td>
-     <td><center><a href="https://www.geeksforgeeks.org/using-guavas-collectors-for-collecting-streams-to-immutable-collections-in-java/">using-guavas-collectors-for-collecting-streams-to-immutable-collections-in-java</a></center></td>
-  </tr>
-  
-    <tr>
-    <td><center>Article 2</center></td>
-     <td><center><a href="https://www.geeksforgeeks.org/using-guavas-collectors-for-collecting-streams-to-immutable-collections-in-java/">using-guavas-collectors-for-collecting-streams-to-immutable-collections-in-java</a></center></td>
-  </tr>
-  
-    <tr>
-    <td><center>Article 2</center></td>
-     <td><center><a href="https://www.geeksforgeeks.org/using-guavas-collectors-for-collecting-streams-to-immutable-collections-in-java/">using-guavas-collectors-for-collecting-streams-to-immutable-collections-in-java</a></center></td>
-  </tr>
-  
-    <tr>
-    <td><center>Article 2</center></td>
-     <td><center><a href="https://www.geeksforgeeks.org/using-guavas-collectors-for-collecting-streams-to-immutable-collections-in-java/">using-guavas-collectors-for-collecting-streams-to-immutable-collections-in-java</a></center></td>
-  </tr>
-    <tr>
-    <td><center>Article 2</center></td>
-     <td><center><a href="https://www.geeksforgeeks.org/using-guavas-collectors-for-collecting-streams-to-immutable-collections-in-java/">using-guavas-collectors-for-collecting-streams-to-immutable-collections-in-java</a></center></td>
-  </tr>
-  
-    <tr>
-    <td><center>Article 2</center></td>
-     <td><center><a href="https://www.geeksforgeeks.org/using-guavas-collectors-for-collecting-streams-to-immutable-collections-in-java/">using-guavas-collectors-for-collecting-streams-to-immutable-collections-in-java</a></center></td>
-  </tr>
-  
-    <tr>
-    <td><center>Article 2</center></td>
-     <td><center><a href="https://www.geeksforgeeks.org/using-guavas-collectors-for-collecting-streams-to-immutable-collections-in-java/">using-guavas-collectors-for-collecting-streams-to-immutable-collections-in-java</a></center></td>
-  </tr>
-    <tr>
-    <td><center>Article 2</center></td>
-     <td><center><a href="https://www.geeksforgeeks.org/using-guavas-collectors-for-collecting-streams-to-immutable-collections-in-java/">using-guavas-collectors-for-collecting-streams-to-immutable-collections-in-java</a></center></td>
-  </tr>
-  
-  
-    <tr>
-    <td><center>Article 2</center></td>
-     <td><center><a href="https://www.geeksforgeeks.org/using-guavas-collectors-for-collecting-streams-to-immutable-collections-in-java/">using-guavas-collectors-for-collecting-streams-to-immutable-collections-in-java</a></center></td>
-  </tr>
-  
   </table>
 </body>
 </html>
