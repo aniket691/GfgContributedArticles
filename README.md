@@ -87,6 +87,15 @@
      <td><center><a href="https://www.geeksforgeeks.org/zip-api-in-java/">zip-api-in-java</a></center></td>
   </tr> 
   
+  
+    
+    
+  <tr>
+    <td><center>Article 10</center></td>
+     <td><center><a href="https://www.geeksforgeeks.org/sql-query-to-delete-a-data-from-a-table-based-on-date/">sql query to delete data from table</a></center></td>
+  </tr> 
+  
+  
   </table>
 </body>
 </html>
